@@ -1,0 +1,2 @@
+# Standart Library (STD)
+This is the internal code of the project. The point of all this is to prevent an ordinary systems developer from being distracted by fragments of source code that do not belong to the upper layer of development.
