@@ -1,0 +1,8 @@
+# Build Files
+*.amx
+*.pdb
+*.xml
+
+# Other Dirs
+server/
+complier/
