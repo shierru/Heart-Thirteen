@@ -4,3 +4,6 @@
 [submodule "include/YSI-Includes"]
 	path = include/YSI-Includes
 	url = https://github.com/pawn-lang/YSI-Includes.git
+[submodule "include/mdialog"]
+	path = include/mdialog
+	url = https://github.com/Open-GTO/mdialog
