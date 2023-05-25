@@ -2,9 +2,11 @@
 
 #define YSI_YES_HEAP_MALLOC
 
-#include <YSI_Coding\y_timers>
-
 #include <mdialog>
+
+// Source
+#include "source/core/database/entry"
+#include "source/core/database/impl"
 
 main() {
     print("==================================");
