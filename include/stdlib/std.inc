@@ -9,7 +9,7 @@
 #include <YSI_Server/y_flooding>
 
 public OnScriptInit() {
-	SetMaxConnections(1, e_FLOOD_ACTION_FBAN);
+    SetMaxConnections(1, e_FLOOD_ACTION_KICK);
 
     print(" ==========================================  ");
     print(" ||   ooooooo   ooooooo   ooooooooooooo  ||  ");
