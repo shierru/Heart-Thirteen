@@ -1,5 +1,7 @@
 #include <open.mp>
 
+#include <crashdetect>
+
 #include <std>
 
 #include <mdialog>

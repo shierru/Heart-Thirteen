@@ -12,7 +12,7 @@
           "'-i${workspaceRoot}/include/YSI-Includes'",
           "'-i${workspaceRoot}/include/mdialog'",
           "'-i${workspaceRoot}/include'",
-          "'-d2'", "'-O2'", "'-t4'", 
+          "'-d2'", "'-t4'", 
           "'-o${workspaceRoot}/server/gamemodes/main'",
           "'${workspaceRoot}/source/main.pwn'"
         ]
